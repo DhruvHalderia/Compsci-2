@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StringPractice
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name
+comment2.target=java.lang.String\ getInitials(java.lang.String)
+comment3.params=first\ second
+comment3.target=int\ getCompareTo(java.lang.String,\ java.lang.String)
+numComments=4
