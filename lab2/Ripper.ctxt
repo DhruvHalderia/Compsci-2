@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ripper
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=word\ num1\ num2
+comment2.target=java.lang.String\ getRipper(java.lang.String,\ int,\ int)
+numComments=3

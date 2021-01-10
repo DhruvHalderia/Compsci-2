@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=
+comment1.target=Hangman()
+comment2.params=sW
+comment2.target=Hangman(java.lang.String)
+comment3.params=plyrGuess
+comment3.target=java.lang.String\ guess(java.lang.String)
+comment4.params=
+comment4.target=boolean\ gameOver()
+comment5.params=
+comment5.target=java.lang.String\ getHint()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
