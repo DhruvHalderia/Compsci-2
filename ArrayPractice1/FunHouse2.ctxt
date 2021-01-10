@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FunHouse2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=boolean\ goingUp(int[])
+comment3.params=arr
+comment3.target=boolean\ goingDown(int[])
+comment4.params=arr\ x\ y
+comment4.target=int[]\ greaterThan(int[],\ int,\ int)
+numComments=5
