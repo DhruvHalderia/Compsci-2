@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FunHouseList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list\ spotOne\ spotTwo
+comment2.target=int\ sumSpots(java.util.ArrayList,\ int,\ int)
+comment3.params=list\ countNum
+comment3.target=int\ count(java.util.ArrayList,\ int)
+comment4.params=list\ remove
+comment4.target=java.util.ArrayList\ remove(java.util.ArrayList,\ int)
+numComments=5
