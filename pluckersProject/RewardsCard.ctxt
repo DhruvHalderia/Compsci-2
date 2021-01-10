@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RewardsCard
+comment1.params=
+comment1.target=RewardsCard()
+comment2.params=na
+comment2.target=RewardsCard(java.lang.String)
+comment3.params=pE\ pU\ ans
+comment3.target=void\ setTransactions(int,\ int,\ java.lang.String)
+comment4.params=na
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=Transactions\ getTransactions()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
